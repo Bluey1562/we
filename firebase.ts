@@ -1,9 +1,7 @@
 /*******************************************************************************
  * Functions for ThingSpeak
  *
- * Company: Cytron Technologies Sdn Bhd
- * Website: http://www.cytron.io
- * Email:   support@cytron.io
+ * Email:  
  *******************************************************************************/
 
 // ThingSpeak API url.
